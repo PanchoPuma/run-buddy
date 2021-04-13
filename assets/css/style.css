@@ -20,6 +20,11 @@
 .secondary-border {
     border-color: #39a6b2;
   }
+
+section {
+    padding: 60px;
+  }
+
   /* apply styles to <header> */
 header {
     padding: 20px 35px;
